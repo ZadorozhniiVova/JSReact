@@ -34,7 +34,7 @@
 
 
 
-const num = '50';
+// const num = '50';
 
 // if( num < 49){
 //     console.log('Error');
@@ -60,7 +60,8 @@ const num = '50';
 //         break;
 //     default:
 //         console.log('not this time');
-//         break    
-
-        
+//         break            
 // }
+
+
+// ЛОГИЧЕСКИЕ ОПЕРАТОРЫ
